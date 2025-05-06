@@ -1,2 +1,2 @@
-version = "Git version 2"
+version = "Git version 3"
 print(version)
